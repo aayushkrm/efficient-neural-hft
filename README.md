@@ -1,6 +1,6 @@
 # Efficient Neural Architectures for High-Frequency Forecasting
 
-[![Rank](https://img.shields.io/badge/Rank-28%2F1000%2B-gold)](https://wunderfund.io)
+[![Rank](https://img.shields.io/badge/Rank-28%2F1000%2B-gold)]([https://wunderfund.io](https://arc.net/l/quote/uzpfhvix))
 [![Constraints](https://img.shields.io/badge/Constraint-20MB%20%7C%20CPU-red)]()
 
 ## 🚀 Project Overview
