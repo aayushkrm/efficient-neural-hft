@@ -36,6 +36,14 @@ I rigorously tested "State of the Art" sequence models. Most failed due to the h
 1. Install dependencies: `pip install -r requirements.txt`
 2. Run the interactive demo: `streamlit run demo/app.py`
 
+## 🤗 Live Demo
+Try the fully quantized ensemble model via an interactive Streamlit app hosted on Hugging Face Spaces:
+
+👉 **https://huggingface.co/spaces/aayushkrm/hft-quant-lab**
+
+The demo runs entirely on CPU and reflects the same INT8-optimized inference constraints used in the competition submission.
+
+
 ![rank png](rank.png)
 
 
