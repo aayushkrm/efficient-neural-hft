@@ -1,6 +1,6 @@
 # Efficient Neural Architectures for High-Frequency Forecasting
 
-[![Rank_28-peacemaker](https://img.shields.io/badge/Rank-28%2F1000%2B-gold)](https://wundernn.io/wunder_challenge/finals)
+[![Rank](https://img.shields.io/badge/Rank-28-peacemaker%2F4000%2B-gold)](https://wundernn.io/wunder_challenge/finals)
 [![Constraints](https://img.shields.io/badge/Constraint-20MB%20%7C%20CPU-red)]()
 
 ## 🚀 Project Overview
