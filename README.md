@@ -2,6 +2,7 @@
 
 [![Rank](https://img.shields.io/badge/Rank-28_peacemaker%2F4000%2B-gold)](https://wundernn.io/wunder_challenge/finals)
 [![Constraints](https://img.shields.io/badge/Constraint-20MB%20%7C%20CPU-red)]()
+[![Hugging Face Demo](https://img.shields.io/badge/🤗%20HuggingFace-Live%20Demo-blue)](https://huggingface.co/spaces/aayushkrm/hft-quant-lab)
 
 ## 🚀 Project Overview
 This repository contains the source code and ablation studies for my solution to the **Wunder Fund RNN Challenge**. The goal was to predict future market states based on anonymized high-frequency data features.
