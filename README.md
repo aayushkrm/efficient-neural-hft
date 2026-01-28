@@ -35,6 +35,6 @@ I rigorously tested "State of the Art" sequence models. Most failed due to the h
 1. Install dependencies: `pip install -r requirements.txt`
 2. Run the interactive demo: `streamlit run demo/app.py`
 
-![Alt text]([path/to/image.png](https://github.com/aayushkrm/efficient-neural-hft/blob/756457a28242f72ce8c5191fa04a09a1d454e0d0/rank.png))
+![rank png](path/to/rank.png)
 
 
