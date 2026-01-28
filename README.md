@@ -35,6 +35,6 @@ I rigorously tested "State of the Art" sequence models. Most failed due to the h
 1. Install dependencies: `pip install -r requirements.txt`
 2. Run the interactive demo: `streamlit run demo/app.py`
 
-![rank png](path/to/rank.png)
+![rank png](rank.png)
 
 
